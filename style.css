@@ -1,6 +1,67 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./assets/background-horror.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+    padding-top: 160px;
+}
+
+
+
+h1 {
+    font-family: "Emilys Candy", cursive;
+    color: #FFC700;
+    text-align: center;
+    font-size: 64px;     
+}
+
+
+
+a {
+    padding: 12px 32px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    opacity: 0.6;
+    text-align: center;
+    
+    color: white;
+    margin-top: 100px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #FFC700;
+}
+
+.btn-primary {
+    text-decoration: none;
+    color: black;
+    background-color: #FFC700;
+    opacity: 1;
+}
+
+h3 {
+    color: white;
+}
+
+span {
+    color: #FFC700;
+}
+
+p {
+    color: white;
+    margin-bottom: 72px;
+
 }
 
 
