@@ -8,7 +8,7 @@
 ## Desafio da Jornada do Zero a Primeira Vaga - Rocketseat 🚀💜
 
 <p align="center">
-<a href="https://horror-game-landing-page.vercel.app">Deploy do projeto</a>
+<a href="https://horror-game-landing-page.vercel.app" target=blank>Deploy do projeto</a>
 <p>
 
 
